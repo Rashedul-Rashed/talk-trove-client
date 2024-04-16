@@ -1,0 +1,21 @@
+-   Website Name : Talk Trove
+-   About This Project
+    -   It's a MERN stack based Full Stack Website
+    -   It is secured by jwt token
+    -   The website has different types of role for users and they can perform as their role.
+    -   Efficiently handled security system, authentication system, secured routes as role.
+    -   User friendly UI, functionalities are easier, Stipe Payment System.
+-   Packages and Technologies :
+    -   Vite React
+    -   React Router DOM
+    -   Firebase
+    -   MongoDB
+    -   React Hook Form
+    -   React-Anime
+    -   Framer-Motion
+    -   JWT
+    -   Axios
+    -   Stripe Payment
+    -   TanStack Query
+
+## Live Website : https://assignment-12-8ead0.web.app/

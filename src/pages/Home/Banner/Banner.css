@@ -1,0 +1,8 @@
+.ml2 {
+	font-weight: 700;
+}
+
+.ml2 .letter {
+	display: inline-block;
+	line-height: 1em;
+}
